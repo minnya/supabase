@@ -298,7 +298,7 @@ services:
     command:
       - start
       - --main-service
-      - /home/deno/functions/push
+      - /home/deno/functions/main
 
   analytics:
     container_name: supabase-analytics
