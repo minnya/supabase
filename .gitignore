@@ -12,6 +12,9 @@ allure-report
 .nyc_output
 *.log
 
+# Google service account
+service-account.json
+
 # turbo
 .turbo
 
